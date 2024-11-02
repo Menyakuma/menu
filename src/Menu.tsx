@@ -27,7 +27,7 @@ const Container = styled.div`
   min-height: 100vh;
   background-color: #f4e4bc;
   padding: 2rem 1rem;
-  font-family: sans-serif;
+  font-family: "Noto Sans KR", sans-serif;
 `;
 
 const MenuWrapper = styled.div`
