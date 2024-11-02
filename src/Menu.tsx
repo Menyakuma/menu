@@ -62,21 +62,29 @@ const ItemCard = styled.div`
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  margin-bottom: 1.5rem; /* Add margin to separate items */
+  margin-bottom: 1.5rem;
+  @media (min-width: 768px) {
+    display: flex;
+  }
 `;
 
 const ItemImageContainer = styled.div`
-  margin-top: 1rem;
   display: flex;
   justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  @media (min-width: 768px) {
+    justify-content: flex-start;
+  }
 `;
 
 const Image = styled.img`
   border-radius: 8px;
   width: 100%;
-  max-width: 250px;
+  max-width: 300px;
+  @media (min-width: 768px) {
+    width: 180px;
+  }
 `;
 
 const ItemDetails = styled.div`
@@ -84,7 +92,7 @@ const ItemDetails = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  flex: 1;
+  flex: 1; /* 남은 공간을 모두 차지하도록 설정 */
 `;
 
 const ItemName = styled.h3`
