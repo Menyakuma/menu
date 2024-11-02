@@ -83,7 +83,7 @@ const Image = styled.img`
   width: 100%;
   max-width: 300px;
   @media (min-width: 768px) {
-    width: 180px;
+    width: 250px;
   }
 `;
 
@@ -97,12 +97,13 @@ const ItemDetails = styled.div`
 
 const ItemName = styled.h3`
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   margin-bottom: 0.5rem;
 `;
 
 const ItemDescription = styled.p`
   color: #4a4a4a;
+  font-size: 1.1rem;
   margin-bottom: 1rem;
 `;
 
@@ -121,6 +122,7 @@ const PriceOption = styled.div`
 
 const Price = styled.span`
   font-weight: bold;
+  font-size: 1.1rem;
 `;
 
 const Footer = styled.div`
