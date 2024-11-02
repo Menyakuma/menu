@@ -72,8 +72,9 @@ const ItemImageContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 1rem;
+  padding: 1rem 1rem 0 1rem;
   @media (min-width: 768px) {
+    padding: 1rem;
     justify-content: flex-start;
   }
 `;
@@ -81,7 +82,7 @@ const ItemImageContainer = styled.div`
 const Image = styled.img`
   border-radius: 8px;
   width: 100%;
-  max-width: 300px;
+  max-width: 400px;
   @media (min-width: 768px) {
     width: 250px;
   }
