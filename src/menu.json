@@ -54,7 +54,7 @@
           { "size": "베이직", "price": "11,000" },
           { "size": "점보", "price": "14,700" }
         ],
-        "image": "/images/뚱카츠동.jpg"
+        "image": "https://menyakuma.github.io/menu/images/뚱카츠동.jpg"
       },
       {
         "name": "산더미가라아게동",

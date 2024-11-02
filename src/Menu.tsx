@@ -63,15 +63,20 @@ const ItemCard = styled.div`
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   display: flex;
+  flex-direction: column;
   margin-bottom: 1.5rem; /* Add margin to separate items */
 `;
 
 const ItemImageContainer = styled.div`
-  max-width: 200px;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
 `;
 
 const Image = styled.img`
+  border-radius: 8px;
   width: 100%;
+  max-width: 250px;
 `;
 
 const ItemDetails = styled.div`
@@ -120,7 +125,7 @@ const Footer = styled.div`
 
 const FooterContent = styled.div`
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
 `;
 

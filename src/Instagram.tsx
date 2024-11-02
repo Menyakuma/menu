@@ -32,7 +32,10 @@ const Instagram = () => {
       href="https://www.instagram.com/menya_kuma/"
       target="_blank"
     >
-      <InstagramIcon src="/images/instagram.svg" alt="instagram" />
+      <InstagramIcon
+        src="https://menyakuma.github.io/menu/images/instagram.svg"
+        alt="instagram"
+      />
       <InstagramText>인스타그램: @menya_kuma</InstagramText>
     </InstagramButton>
   );
