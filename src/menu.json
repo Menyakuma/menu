@@ -3,19 +3,22 @@
     "title": "라멘",
     "items": [
       {
-        "name": "쿠마돈코츠",
-        "description": "매장에서 장시간 우려낸 돼지와 닭의 더블 육수로 묵직하고 진한 감칠맛의 멘야쿠마 스타일의 라멘입니다.",
-        "price": "10,000"
+        "name": "쿠마돈코츠라멘",
+        "description": "오랜시간 직접 끓인 정성스럽게 우린 구수한 육수를 기본으로 완벽한 차슈도 올라가요.",
+        "price": "10,000",
+        "image": "https://menyakuma.github.io/menu/images/쿠마돈코츠라멘.jpeg"
       },
       {
-        "name": "쿠마카라콧테리",
-        "description": "매장에서 장시간 우려낸 묵직한 육수로 얼큰하고 진한 풍미를 자랑! 해장으로 강력 추천!",
-        "price": "11,000"
+        "name": "농후탄탄멘",
+        "description": "각각 장시간 우려낸 3가지 육수를 조합해서 진한 풍미의 얼큰하게 만든 국물 라멘입니다.",
+        "price": "11,000",
+        "image": "https://menyakuma.github.io/menu/images/농후탄탄멘.jpeg"
       },
       {
-        "name": "탄탄멘",
-        "description": "중국식 탄탄멘과 일본식 탄탄멘을 멘야쿠마만의 스타일로 재해석한 얼큰함과 고소함이 공존하는 밸런스 좋은 라멘입니다.",
-        "price": "11,000"
+        "name": "쿠마카라콧테리 라멘",
+        "description": "매장에서 장시간 우려 낸 묵직한 육수로 얼큰하고 진한 풍미의 라멘 해장으로 추천해요",
+        "price": "11,000",
+        "image": "https://menyakuma.github.io/menu/images/쿠마카라콧테리_라멘.jpeg"
       }
     ]
   },
@@ -23,24 +26,28 @@
     "title": "마제소바",
     "items": [
       {
-        "name": "마제소바 풀토핑",
-        "description": "매장에서 직접 만드는 재료로 풍부한 재료가 어울어져 풍부하고 폭발적인 감칠맛과 비쥬얼이 최고!! 멘야쿠마 스타일의 차슈!",
-        "price": "13,500"
+        "name": "마제소바 심플",
+        "description": "멘야쿠마에서만 느낄 수 있는 풍성함이 있는 제대로 만든 마제소바 심플 입니다",
+        "price": "10,000",
+        "image": "https://menyakuma.github.io/menu/images/마제소바_심플.jpeg"
       },
       {
-        "name": "마제소바",
-        "description": "마제소바 풀토핑에서 차슈와 아지마타고가 빠진 심플버젼 가벼운 한끼를 원하는 분께 추천 사이드 메뉴와 콜라보 좋아요.",
-        "price": "10,000"
+        "name": "마제소바 풀토핑(시그니쳐)",
+        "description": "진한 풍미와 감칠맛이 매력적인 마제소바에 홍콩식 차슈와 아지타마고가 함께 올라간 마제소바",
+        "price": "13,500",
+        "image": "https://menyakuma.github.io/menu/images/마제소바_풀토핑(시그니쳐).jpeg"
       },
       {
         "name": "불치즈마제",
-        "description": "강력한 매운맛에 꾸덕한 치즈를 통으로 녹여 꼬소함과 부드러움 중독성 강한 매운맛. 매운맛은 조정 가능합니다. (1~3단계)",
-        "price": "13,000"
+        "description": "매운 불맛에 꾸덕한 치즈가 만나 매력폭탄메뉴 불닭 정도부터 3단계로 맵기조정가능합니다 (1~3단계)",
+        "price": "13,000",
+        "image": "https://menyakuma.github.io/menu/images/불치즈마제.jpeg"
       },
       {
         "name": "탄탄마제멘",
-        "description": "진한 마제소바에 꼬소한 땅콩과 깨가 가득 들어간 장을 베이스로 만든 진한 고소함의 꾸덕한 마제소바 (서비스밥 준비 되어 있습니다 필요시 말씀해 주세요)",
-        "price": "13,000"
+        "description": "국물이 없는 마제소바 멘야쿠마 스타일의 비벼먹는 탄탄멘입니다. 땅콩과 견과류의 고소함이 듬뿍",
+        "price": "13,000",
+        "image": "https://menyakuma.github.io/menu/images/탄탄마제멘.jpeg"
       }
     ]
   },
@@ -48,26 +55,28 @@
     "title": "덮밥",
     "items": [
       {
+        "name": "규동",
+        "description": "고슬한 밥에 차돌양지가 듬뿍~ 온센타마고 베니쇼가 매력적인 궁합을 선보입니다",
+        "price": "10,500",
+        "image": "https://menyakuma.github.io/menu/images/규동.jpeg"
+      },
+      {
+        "name": "니쿠타마돈",
+        "description": "양념한 다진 고기위에 부드러운 달걀이 듬뿍 올라간 멘야쿠마식 촉촉한 일본식 덮밥입니다.",
+        "price": "10,000",
+        "image": "https://menyakuma.github.io/menu/images/니쿠타마돈.jpeg"
+      },
+      {
         "name": "뚱카츠동",
-        "description": "매장에서 한돈으로만 직접 만드는 두툼한카츠를 멘야쿠마의 특제 쯔유와 부드러운 달걀의 조화로 풍부한 맛!!",
-        "options": [
-          { "size": "베이직", "price": "11,000" },
-          { "size": "점보", "price": "14,700" }
-        ],
-        "image": "https://menyakuma.github.io/menu/images/뚱카츠동.jpg"
+        "description": "한돈으로 직접 만드는 두툼한 카츠와 멘야쿠마의 특제쯔유 부드러운 달걀이 매력적인 메뉴",
+        "price": "11,000",
+        "image": "https://menyakuma.github.io/menu/images/뚱카츠동.jpeg"
       },
       {
-        "name": "산더미가라아게동",
-        "description": "잘 손질한 닭다리살을 멘야쿠마 스타일의 양념과 촉촉하고 부드럽게 튀겨 낸 가라아게가 듬뿍 올라간 덮밥",
-        "options": [
-          { "size": "베이직", "price": "11,000" },
-          { "size": "점보", "price": "14,700" }
-        ]
-      },
-      {
-        "name": "니쿠타마든",
-        "description": "오직 멘야쿠마에서만 드실 수 있는 잘게 다진 고기를 양념해서 부드러운 달걀이 듬뿍 올라간 촉촉한 일본식 덮밥",
-        "price": "10,000"
+        "name": "산더미 가라아게동",
+        "description": "매장에서 직접 만드는 가라아게를 산더미처럼 쌓아 올린 덮밥",
+        "price": "11,000",
+        "image": "https://menyakuma.github.io/menu/images/산더미_가라아게동.jpeg"
       }
     ]
   },
@@ -75,12 +84,13 @@
     "title": "사이드 메뉴",
     "items": [
       {
-        "name": "치킨가라아게",
+        "name": "토리 가라아게",
         "description": "매장에서 직접 만드는 프리미엄 가라아게 닭다리살을 부드럽게 밑간하여 바삭하게 튀겨낸 일본풍의 정통 가라아게입니다.",
         "options": [
           { "size": "소", "price": "5,500" },
           { "size": "대", "price": "10,000" }
-        ]
+        ],
+        "image": "https://menyakuma.github.io/menu/images/토리_가라아게.jpeg"
       },
       {
         "name": "야끼교자만두",
@@ -88,7 +98,8 @@
         "options": [
           { "quantity": "3조각", "price": "4,000" },
           { "quantity": "5조각", "price": "5,500" }
-        ]
+        ],
+        "image": "https://menyakuma.github.io/menu/images/야끼교자만두.jpeg"
       },
       {
         "name": "위험 매운 야끼교자",
